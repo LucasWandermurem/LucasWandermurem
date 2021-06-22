@@ -42,7 +42,17 @@ Front-end Developer, Coffe lover and Javascript fan.
 
 ⚡ GitHub Stats <br>
 
-![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=LucasWandermurem&hide=issues&show_icons=true&theme=merko)
+![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=LucasWandermurem&hide=issues&show_icons=true&theme=merko&show_owner)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasWandermurem&layout=compact)](https://github.com/LucasWandermurem/github-readme-stats)
+
+<!-- <a href="https://github.com/LucasWandermurem/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasWandermurem&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/LucasWandermurem/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasWandermurem&repo=portfolio" />
+</a> -->
+
 <!--
 **LucasWandermurem/LucasWandermurem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
