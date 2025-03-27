@@ -28,8 +28,8 @@ Quality assurance tester, Coffe lover and Javascript fan.
  
   🚀 Frameworks 
 <div style:align-right>
-  <img src = "https://img.shields.io/badge/cypress-43853D?style=&logo=node-dot-js&logoColor=white">
-  <img src = "https://img.shields.io/badge/postman-43853D?style=&logo=node-dot-js&logoColor=white">
+  <img src = "https://img.shields.io/badge/cypress-43853D?style=&logo=cypress&logoColor=white">
+  <img src = "https://img.shields.io/badge/postman-43853D?style=&logo=postman&logoColor=white">
   <img src = "https://img.shields.io/badge/jmeter-43853D?style=&logo=node-dot-js&logoColor=white">
   <img src = "https://img.shields.io/badge/Node.js-43853D?style=&logo=node-dot-js&logoColor=white">
   <img src = "https://img.shields.io/badge/npm-CB3837?style=&logo=npm&logoColor=white">
