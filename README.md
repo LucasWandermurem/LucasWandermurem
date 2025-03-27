@@ -1,10 +1,10 @@
 ### Hi 👋, i'm Lucas
 
-Front-end Developer, Coffe lover and Javascript fan.
+Quality assurance tester, Coffe lover and Javascript fan.
 
 👯 I’m looking for a job
 
-🌱 I’m currently learning Javascript, ReactJS
+🌱 I’m currently learning Postman, Jmeter, Javascript
 
 👨👩 Social
 <div style:align:right>
@@ -28,17 +28,14 @@ Front-end Developer, Coffe lover and Javascript fan.
  
   🚀 Frameworks 
 <div style:align-right>
+  <img src = "https://img.shields.io/badge/cypress-43853D?style=&logo=node-dot-js&logoColor=white">
+  <img src = "https://img.shields.io/badge/postman-43853D?style=&logo=node-dot-js&logoColor=white">
+  <img src = "https://img.shields.io/badge/jmeter-43853D?style=&logo=node-dot-js&logoColor=white">
   <img src = "https://img.shields.io/badge/Node.js-43853D?style=&logo=node-dot-js&logoColor=white">
   <img src = "https://img.shields.io/badge/npm-CB3837?style=&logo=npm&logoColor=white">
   <img src = "https://img.shields.io/badge/Yarn-2C8EBB?style=&logo=yarn&logoColor=white">
   <img src = "https://img.shields.io/badge/Git-F05032?style=&logo=git&logoColor=white">
 </div><br>
-
-💻 Workspace Spec <br>
-
-<img src = "https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=&logo=nvidia&logoColor=white"><br>
-
-<img src = "https://img.shields.io/badge/AMD-Ryzen_5_1600-ED1C24?style=&logo=amd&logoColor=white">
 
 ⚡ GitHub Stats <br>
 
