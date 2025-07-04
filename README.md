@@ -11,12 +11,6 @@ Quality assurance tester, Coffe lover and Javascript fan.
   <a href = "https://www.linkedin.com/in/lucaswander/">
     <img src = "https://img.shields.io/badge/lucaswander-%230077B5.svg?&style=&logo=linkedin&logoColor=white">
   </a>
-  <a href = "https://www.instagram.com/lucaswander/">
-    <img src = "https://img.shields.io/badge/lucaswander-%23E4405F.svg?&style=&logo=instagram&logoColor=white">
-  </a>
-  <a href = "https://www.facebook.com/lucas.wandermurem">
-    <img src = "https://img.shields.io/badge/lucas.wandermurem-%231877F2.svg?&style=&logo=facebook&logoColor=white">
-  </a>
 </div><br>
 
 👩‍💻 Languages
