@@ -1,10 +1,11 @@
-### Hi 👋, i'm Lucas
+### Olá 👋, eu sou o Lucas!
 
-Quality assurance tester, Coffe lover and Javascript fan.
+Analista de Testes (QA) com foco em qualidade de software, testes manuais e automatizados, especialmente voltados para validação de APIs, processos de migração de dados e garantia de qualidade em sistemas web.
+Tenho experiência com ferramentas como Cypress, Postman, Swagger, Jira e RQM, e estou em constante evolução com testes automatizados.
 
-👯 I’m looking for a job
+Sou apaixonado por tecnologia, aprendizado contínuo e por entregar produtos com alta confiabilidade. Aqui no meu GitHub, compartilho projetos, estudos e iniciativas que contribuem para meu crescimento técnico e profissional.
 
-🌱 I’m currently learning Postman, Jmeter, Javascript
+🌱Estudando Postman, Jmeter, Javascript...
 
 👨👩 Social
 <div style:align:right>
@@ -30,6 +31,18 @@ Quality assurance tester, Coffe lover and Javascript fan.
   <img src = "https://img.shields.io/badge/Yarn-2C8EBB?style=&logo=yarn&logoColor=white">
   <img src = "https://img.shields.io/badge/Git-F05032?style=&logo=git&logoColor=white">
 </div><br>
+
+### 📂 Projetos em Destaque
+
+🧪 [API Testing com Postman & Newman](https://github.com/LucasWandermurem/online-store-postman-api)  
+🔍 [Automação Web com Cypress + Javascript](https://github.com/LucasWandermurem/lowcomex-cypress-web)  
+<!--📁 [Casos de Teste - Projeto Exemplo](https://github.com/seuusuario/test-case-documentation)-->
+
+### 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/lucaswandermurem)
+- E-mail: lucasowandermurem@gmail.com
+- Local: Rio de Janeiro - RJ, Brasil
 
 ⚡ GitHub Stats <br>
 
