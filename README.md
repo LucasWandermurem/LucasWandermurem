@@ -37,6 +37,7 @@ Sou apaixonado por tecnologia, aprendizado contínuo e por entregar produtos com
 🧪 [API Testing com Postman & Newman - Online Store](https://github.com/LucasWandermurem/online-store-postman-api)  
 🔍 [Automação Web com Cypress + Javascript - Lowcomex](https://github.com/LucasWandermurem/lowcomex-cypress-web)  
 🔍 [Automação Web com Cypress + Javascript - SauceDemo](https://github.com/LucasWandermurem/sauce-demo-cypress-web)
+🔍 [Automação Web com Cypress + BDD + Cucumber + Javascript - SauceDemo](https://github.com/LucasWandermurem/sauce-demo-cypress-web-bdd)
 <!--📁 [Casos de Teste - Projeto Exemplo](https://github.com/seuusuario/test-case-documentation)-->
 
 ### 📫 Contato
